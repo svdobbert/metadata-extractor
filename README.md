@@ -22,7 +22,7 @@ When the script is run you are asked to entern the following data:
 * Species: List  of focal species, found by looking for italics in the title and abstract.
 * Area: Study Area, found by looking for keywords in the Study Area chapter, title and abstract.
 * Country:  List  of Countries, found by looking for defined country terms in the Study Area chapter, title and abstract.
-* Mountain Range': List  of Mountain Ranges, found by looking for defined country terms in the Study Area chapter, title and abstract.
+* Mountain Range: List  of Mountain Ranges, found by looking for defined country terms in the Study Area chapter, title and abstract.
 
 ## Warning
 A long list of input DOIs may result in errors. We recommend to break it into parts.
