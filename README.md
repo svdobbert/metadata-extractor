@@ -26,3 +26,6 @@ When the script is run you are asked to entern the following data:
 
 ## Warning
 A long list of input DOIs may result in errors. We recommend to break it into parts.
+
+## Run Script
+To run the script run the main.py file.
